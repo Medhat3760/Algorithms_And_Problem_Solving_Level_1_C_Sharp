@@ -1,0 +1,15 @@
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\Problem1.csproj.AssemblyReference.cache
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\Problem1.AssemblyInfoInputs.cache
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\Problem1.AssemblyInfo.cs
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\Problem1.csproj.CoreCompileInputs.cache
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\bin\Debug\net6.0\Problem1.exe
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\bin\Debug\net6.0\Problem1.deps.json
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\bin\Debug\net6.0\Problem1.runtimeconfig.json
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\bin\Debug\net6.0\Problem1.dll
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\bin\Debug\net6.0\Problem1.pdb
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\Problem1.dll
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\refint\Problem1.dll
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\Problem1.pdb
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\Problem1.genruntimeconfig.cache
+D:\Programs Files\Algorithms_And_Problem_Solving_Level_1_C_Sharp\Problem1\obj\Debug\net6.0\ref\Problem1.dll
