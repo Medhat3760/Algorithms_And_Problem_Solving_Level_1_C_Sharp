@@ -53,13 +53,13 @@ namespace Problem3
 
 ## How to Run the Program
 
-1.Clone this repository to your local machine.
+1. Clone this repository to your local machine.
 
-2.Open the solution in a C# development environment (e.g., Visual Studio).
+2. Open the solution in a C# development environment (e.g., Visual Studio).
 
-3.Build the project.
+3. uild the project.
 
-4.Run the program.
+4. Run the program.
 
 ## Example
 
