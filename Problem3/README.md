@@ -57,7 +57,7 @@ namespace Problem3
 
 2. Open the solution in a C# development environment (e.g., Visual Studio).
 
-3. uild the project.
+3. Build the project.
 
 4. Run the program.
 
